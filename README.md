@@ -6,5 +6,6 @@ Bruteforce password wordlist
 6chars.txt is "odshuz0231"
 
 randomized alphabets + birthday
+each files contains 10 million.
 
 Torrent → [Download](https://github.com/ChongPang19419/wordlists-for-something/raw/main/wordlists.torrent) 286.1MiB
